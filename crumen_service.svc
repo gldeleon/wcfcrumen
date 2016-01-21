@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WCFCrumen.crumen_service" CodeBehind="crumen_service.svc.cs" %>

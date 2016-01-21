@@ -1,0 +1,6 @@
+c:\users\geovanny\documents\visual studio 2013\Projects\WCFCrumen\WCFCrumen\bin\WCFCrumen.dll.config
+c:\users\geovanny\documents\visual studio 2013\Projects\WCFCrumen\WCFCrumen\bin\WCFCrumen.dll
+c:\users\geovanny\documents\visual studio 2013\Projects\WCFCrumen\WCFCrumen\bin\WCFCrumen.pdb
+c:\users\geovanny\documents\visual studio 2013\Projects\WCFCrumen\WCFCrumen\obj\Debug\WCFCrumen.csprojResolveAssemblyReference.cache
+c:\users\geovanny\documents\visual studio 2013\Projects\WCFCrumen\WCFCrumen\obj\Debug\WCFCrumen.dll
+c:\users\geovanny\documents\visual studio 2013\Projects\WCFCrumen\WCFCrumen\obj\Debug\WCFCrumen.pdb
